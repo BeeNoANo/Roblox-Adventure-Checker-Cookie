@@ -1,6 +1,9 @@
 # Simple Cookie Checker
 Just a cookie checker for Roblox, does not require proxies and it's 100% safe.
 
+#Credit
+[I think here is link](https://github.com/kobbibop/Roblox-Simple-Cookie-Checker)
+
 ### Dependencies
 - [Node.js (tested on v16.15.1)](https://nodejs.org/en/download/)
 - npm (can be any other package manager like yarn but then you need to install it manually)
