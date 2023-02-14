@@ -1,0 +1,11 @@
+{
+    "multithreading": {
+        "enabled": true,
+        "threads": 50
+    },
+    "removeDuplicates": false,
+    "inputWithAccount": true,
+    "log": {
+        "cookie": false
+    }
+}
